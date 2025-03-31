@@ -2,7 +2,8 @@
 This notebook is designed for creating an interactive and visually rich exploratory data analysis (EDA) dashboard. It utilizes libraries like Panel, HvPlot.
 
 Web Version: https://jenny-z-zhu.github.io/Interactive_Dashboard_Movie_Data/app.html
-
+* Due to file size, the web app might take too long to load, so the best way is to download .ipybn file and run locally.
+    
 Welcome! This project involves building an interactive data visualization dashboard using Panel and HvPlot. The dashboard allows users to explore, filter, and analyze data dynamically with interactive widgets like sliders, dropdowns, and checkboxes.
 
 🔹 Key Features:
