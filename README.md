@@ -1,4 +1,4 @@
-# Interactive_Dashboard_Movie_Data
+# Interactive Dashboard for Movie Data
 This notebook is designed for creating an interactive and visually rich exploratory data analysis (EDA) dashboard. It utilizes libraries like Panel, HvPlot.
 
 Web Version: https://jenny-z-zhu.github.io/Interactive_Dashboard_Movie_Data/app.html
